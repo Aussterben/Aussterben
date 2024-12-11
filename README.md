@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02F76D&width=435&lines=%F0%9F%92%BB+WELCOME+TO+AUSSTERBEN+%F0%9F%92%BB;%F0%9F%92%96+LINUX+LOVER+%F0%9F%92%96;%F0%9F%92%96+CIBERSEGURITY+LOVER+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=09F735&center=true&width=435&lines=%F0%9F%92%BB+WELCOME+TO+ARCISEC+%F0%9F%92%BB;%F0%9F%92%9D+CIBERSECURITY+LOVER+%F0%9F%92%9D;%F0%9F%92%9D+LINUX+LOVER+%F0%9F%92%9D)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="300" src="https://media.discordapp.net/attachments/898858401092759552/1316550041686773781/ArciSEC_1.png?ex=675b7446&is=675a22c6&hm=2b065569ca8b6188e746453d84ca81343f19e224bbe5139bad469453e7ae43f4&="  />
