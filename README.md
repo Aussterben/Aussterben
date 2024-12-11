@@ -67,18 +67,6 @@
 
 ###
 
-<h3 align="center">🐍 Snake 🐍</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Aussterben/Aussterben/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">____________________________________________________________________________________________________________________________________</p>
-
-###
-
 <h3 align="center">🔥 Mis estadísticas 🔥</h3>
 
 ###
